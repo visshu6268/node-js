@@ -3,4 +3,4 @@ const user = {
     phone: 6368155832,
     college: "mpct"
 }
-console.log(user)
+console.log(user.name)
